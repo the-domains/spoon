@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ryan Spoon]]></title>
+        <description><![CDATA[Ryan Spoon]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Feb 2016 14:19:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE WOW FACTOR]]></title>
+            <description><![CDATA[<article><h1>THE WOW FACTOR</h1><p>THE WOW FACTORFew could have guessed that the league's return would become so bloody, bitter and, most of all, emblematic of how power in the NFL truly works. BY SETH WICKERSHAM AND DON VAN NATTA JR.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e57d4570-1c47-460b-a6c6-ba5554e74947.jpg"></article>]]></description>
+            <link>http://espn.go.com/espn/feature/story/_/id/14752649/the-real-story-nfl-owners-battle-bring-football-back-los-angeles</link>
+            <guid isPermaLink="false">8569ee61-d831-4ac7-a640-eab484856036</guid>
+            <pubDate>Sat, 13 Feb 2016 14:19:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
