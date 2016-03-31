@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.nytimes.com/2016/04/03/magazine/what-happened-when-venture-capitalists-took-over-the-golden-state-warriors.html?curator=MediaREDEF'
+inLanguage: null
+starred: false
+keywords: []
 description: Credit Illustration by Justin Metz
+datePublished: '2016-03-31T15:32:26.475Z'
+dateModified: '2016-03-31T15:29:49.433Z'
 author: []
-datePublished: '2016-03-31T15:29:44.456Z'
-publisher:
-  domain: www.nytimes.com
-  name: nytimes.com
-dateModified: '2016-03-31T15:28:24.631Z'
 title: ''
 sourcePath: _posts/2016-03-31-credit-illustration-by-justin-metz.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: credit-illustration-by-justin-metz/index.html
+authors: []
+publisher:
+  name: nytimes.com
+  domain: www.nytimes.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
