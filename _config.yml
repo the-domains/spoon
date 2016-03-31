@@ -1,6 +1,6 @@
 name: Ryan Spoon
 favicon: null
-layout_spectrum: 0.38296
+layout_spectrum: 0.22089
 typography_spectrum: 0.5737
 title: "@RyanSpoon's Grid: What I'm Reading"
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#01ffff'
-    - '#ffffff'
-    - '#ff00fe'
-    - '#000014'
-    - '#ff6200'
-  brandStrength: 0.0625
+    - '#bdce72'
+    - '#2eaab6'
+    - '#000237'
+    - '#a31c6c'
+    - '#ff8b99'
+  brandStrength: 0.5
   lightness: 0.4784660995937884
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
