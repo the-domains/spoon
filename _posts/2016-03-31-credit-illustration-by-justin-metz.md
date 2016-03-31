@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Credit Illustration by Justin Metz
-datePublished: '2016-03-31T15:32:26.475Z'
-dateModified: '2016-03-31T15:29:49.433Z'
+datePublished: '2016-03-31T15:32:59.739Z'
+dateModified: '2016-03-31T15:32:35.125Z'
 author: []
 title: ''
 sourcePath: _posts/2016-03-31-credit-illustration-by-justin-metz.md
