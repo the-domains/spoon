@@ -4,7 +4,7 @@
         <description><![CDATA[@RyanSpoon's Grid: What I'm Reading]]></description>
         <link>https://thegrid.ai/spoon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 16:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 16:38:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spoon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Wow Factor]]></title>
@@ -12,6 +12,13 @@
             <link>http://espn.go.com/espn/feature/story/_/id/14752649/the-real-story-nfl-owners-battle-bring-football-back-los-angeles</link>
             <guid isPermaLink="false">8569ee61-d831-4ac7-a640-eab484856036</guid>
             <pubDate>Sat, 13 Feb 2016 14:42:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Chinese Mobile UI Trends]]></title>
+            <description><![CDATA[<article><h1>More Chinese Mobile UI Trends</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f79b8ccc00d0418718e87bbeba4730b5ad48c4a8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/spoon/more-chinese-mobile-ui-trends/index.html</link>
+            <guid isPermaLink="false">917f2124-3e7b-4746-8110-efcf0f1bc6d4</guid>
+            <pubDate>Fri, 01 Apr 2016 16:37:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chat bots, conversation and AI as an interface]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/spoon/how-trump-hacked-the-media-trumps-dominance-on-cable-news-i/index.html</link>
             <guid isPermaLink="false">d58a1428-6158-4055-afd8-388a181f945d</guid>
             <pubDate>Thu, 31 Mar 2016 15:27:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THE FBI VS. FIFA ]]></title>
-            <description><![CDATA[<article><h1>THE FBI VS. FIFA </h1><p>The exclusive account of how a small band of federal agents and an outsized corrupt official brought down the sports world's biggest governing body.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c79de2e25f4490ad11608210025ed8e9f4c8044.jpg"></article>]]></description>
-            <link>http://espn.go.com/espn/feature/story/_/id/14767250/the-exclusive-story-how-feds-took-fifa</link>
-            <guid isPermaLink="false">6c5a7c4e-f6ca-4f33-b96d-8fb9dc746b5d</guid>
-            <pubDate>Wed, 17 Feb 2016 14:28:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
